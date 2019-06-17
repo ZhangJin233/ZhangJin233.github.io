@@ -18,7 +18,7 @@
       <pubDate>Thu, 02 May 2019 16:57:08 +0800</pubDate>
       
       <guid>https://jane-dev.com/technology/happynumber/</guid>
-      <description>Happy Number Write an algorithm to determine if a number is &amp;ldquo;happy&amp;rdquo;. A happy number is defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which</description>
+      <description>Write an algorithm to determine if a number is &amp;ldquo;happy&amp;rdquo;. A happy number is defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process</description>
     </item>
     
     <item>
