@@ -3,124 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
+    <loc>https://jane-dev.com/zh/index.html</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jane-dev.com/en/tags/"
+                href="https://jane-dev.com/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
+                href="https://jane-dev.com/zh/index.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/zh/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://jane-dev.com/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jane-dev.com/zh/tags/"
+                />
   </url>
   
   <url>
-    <loc>https://jane-dev.com/tags/book/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
+    <loc>https://jane-dev.com/zh/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jane-dev.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
                 href="https://jane-dev.com/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/about/</loc>
-    <lastmod>2019-05-29T17:52:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/justice/</loc>
-    <lastmod>2019-05-28T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/happynumber/</loc>
-    <lastmod>2019-05-02T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/</loc>
-    <lastmod>2019-05-02T16:57:08+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/leetcode/</loc>
-    <lastmod>2019-05-02T16:57:08+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/twosum/</loc>
-    <lastmod>2019-05-01T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2019-04-28T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2019-04-28T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/countprime/</loc>
-    <lastmod>2019-04-16T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/singlenumber/</loc>
-    <lastmod>2019-04-01T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/index.html</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jane-dev.com/en/index.html"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jane-dev.com/index.html"
+                href="https://jane-dev.com/zh/"
                 />
   </url>
   
