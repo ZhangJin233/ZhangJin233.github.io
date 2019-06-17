@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jane-dev.com/zh/index.html</loc>
+    <loc>https://jane-dev.com/zh/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jane-dev.com/index.html"
+                href="https://jane-dev.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jane-dev.com/zh/index.html"
+                href="https://jane-dev.com/zh/categories/"
                 />
   </url>
   

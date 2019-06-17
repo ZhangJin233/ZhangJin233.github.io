@@ -2,14 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jane&#39;s blog</title>
-    <link>https://jane-dev.com/index.html</link>
+    <link>https://jane-dev.com/</link>
     <description>Recent content on jane&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 14 Jun 2019 07:01:21 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/janes-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>《穷查理宝典》读书笔记</title>
+      <link>https://jane-dev.com/reading/%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Fri, 14 Jun 2019 07:01:21 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/reading/%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>综述 感悟 ​ 看完查理宝典已经一周左右了，看完后的感悟就是，脑海里不断会回忆起查理反复提到的几个观点。这几个观点对我启发很大，现在我想总结出来，</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jane-dev.com/about/</link>
+      <pubDate>Wed, 29 May 2019 17:52:38 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/about/</guid>
+      <description>记录一些读书笔记 和 一些计算机相关的记录：）</description>
+    </item>
+    
+    <item>
+      <title>JUSTICE 哈佛公开课</title>
+      <link>https://jane-dev.com/reading/justice/</link>
+      <pubDate>Tue, 28 May 2019 16:57:08 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/reading/justice/</guid>
+      <description>第一课：what&amp;rsquo;s the right thing to do ? 情景一： 电车刹车失灵，正高速行驶在轨道上。如果继续往前，会撞死五个工人。转弯开向侧轨，会撞死一个</description>
+    </item>
+    
+    <item>
+      <title>Happy Number</title>
+      <link>https://jane-dev.com/technology/happynumber/</link>
+      <pubDate>Thu, 02 May 2019 16:57:08 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/happynumber/</guid>
+      <description>Write an algorithm to determine if a number is &amp;ldquo;happy&amp;rdquo;. A happy number is defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process</description>
+    </item>
+    
+    <item>
+      <title>Two sum</title>
+      <link>https://jane-dev.com/technology/twosum/</link>
+      <pubDate>Wed, 01 May 2019 16:57:08 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/twosum/</guid>
+      <description>&lt;p&gt;Given an array of integers, return indices of the two numbers such that they add up to a specific target.&lt;/p&gt;
+
+&lt;p&gt;You may assume that each input would have exactly one solution, and you may not use the same element twice.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>《人类简史》读书笔记</title>
+      <link>https://jane-dev.com/reading/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 28 Apr 2019 16:57:08 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/reading/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>全书框架 全书框架整理 智人 历史三大重要革命 第一部分：认知革命 第一章 人类：一种也没什么特别的动物 第二章 知善恶树 第三章 亚当和夏娃的一天 第四章 毁天灭</description>
+    </item>
+    
+    <item>
+      <title>《自私的基因》读书笔记</title>
+      <link>https://jane-dev.com/reading/%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 28 Apr 2019 16:57:08 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/reading/%E8%87%AA%E7%A7%81%E7%9A%84%E5%9F%BA%E5%9B%A0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>《自私的基因》目的是研究自私行为和利他行为在生物学上的意义。文章的论点是，我们以及其他一切动物都是各自基因所创造的机器。作者所论证的是，成功</description>
+    </item>
+    
+    <item>
+      <title>Count Prime</title>
+      <link>https://jane-dev.com/technology/countprime/</link>
+      <pubDate>Tue, 16 Apr 2019 16:57:08 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/countprime/</guid>
+      <description>Count the number of prime numbers less than a non-negative number, n. Example: Input: 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. solution 1: class Solution { public int countPrimes(int n) { boolean[] prime = new boolean[n]; Arrays.fill(prime, true); for(int i = 2; i &amp;lt; n; i++){ if(prime[i]){ // 将i的2倍、3倍、4倍</description>
+    </item>
+    
+    <item>
+      <title>SingleNumber</title>
+      <link>https://jane-dev.com/technology/singlenumber/</link>
+      <pubDate>Mon, 01 Apr 2019 16:57:08 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/singlenumber/</guid>
+      <description>Given a non-empty array of integers, every element appears twice except for one. Find that single one. Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory? Example 1: Input: [2,2,1] Output: 1 Example 2: Input: [4,1,2,1,2] Output: 4 solution 1: hashmap class Solution { public int singleNumber(int[] nums) { if(nums == null || nums.length == 0){ return 0; } HashMap&amp;lt;Integer,Integer&amp;gt; map =</description>
+    </item>
     
   </channel>
 </rss>
