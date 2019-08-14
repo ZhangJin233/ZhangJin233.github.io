@@ -4,24 +4,30 @@
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <lastmod>2019-08-14T11:58:48+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jane-dev.com/tags/CI/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <loc>https://jane-dev.com/tags/Array/</loc>
+    <lastmod>2019-08-14T11:58:48+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jane-dev.com/technology/hugo/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <loc>https://jane-dev.com/tags/LeetCode/</loc>
+    <lastmod>2019-08-14T11:58:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/RemoveDuplicatesfromSortedArray/</loc>
+    <lastmod>2019-08-14T11:58:48+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <lastmod>2019-08-14T11:58:48+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -37,8 +43,35 @@
   
   <url>
     <loc>https://jane-dev.com/technology/</loc>
+    <lastmod>2019-08-14T11:58:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/</loc>
+    <lastmod>2019-08-14T11:58:48+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jane-dev.com/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jane-dev.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/CI/</loc>
     <lastmod>2019-06-18T18:32:59+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/hugo/</loc>
+    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
   </url>
   
   <url>
@@ -51,22 +84,6 @@
     <loc>https://jane-dev.com/tags/hugo/</loc>
     <lastmod>2019-06-18T18:32:59+08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jane-dev.com/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jane-dev.com/"
-                />
   </url>
   
   <url>
