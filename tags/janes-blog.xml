@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 11:58:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 18:32:59 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/tags/janes-blog.xml" rel="self" type="application/rss+xml" />
     
@@ -15,27 +15,9 @@
     <item>
       <title></title>
       <link>https://jane-dev.com/tags/</link>
-      <pubDate>Wed, 14 Aug 2019 11:58:48 +0800</pubDate>
+      <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>
       
       <guid>https://jane-dev.com/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Array</title>
-      <link>https://jane-dev.com/tags/Array/</link>
-      <pubDate>Wed, 14 Aug 2019 11:58:48 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/tags/Array/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LeetCode</title>
-      <link>https://jane-dev.com/tags/LeetCode/</link>
-      <pubDate>Wed, 14 Aug 2019 11:58:48 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/tags/LeetCode/</guid>
       <description></description>
     </item>
     
@@ -72,15 +54,6 @@
       <pubDate>Tue, 28 May 2019 16:57:08 +0800</pubDate>
       
       <guid>https://jane-dev.com/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>leetcode</title>
-      <link>https://jane-dev.com/tags/leetcode/</link>
-      <pubDate>Thu, 02 May 2019 16:57:08 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/tags/leetcode/</guid>
       <description></description>
     </item>
     
