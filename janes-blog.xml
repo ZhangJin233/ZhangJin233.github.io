@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 18:32:59 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 22:05:45 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/janes-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>不定期更新的书单</title>
+      <link>https://jane-dev.com/reading/ReadingList/</link>
+      <pubDate>Wed, 13 Nov 2019 22:05:45 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/reading/ReadingList/</guid>
+      <description>记录每年读的书籍和课程 2019年 《明朝那些事》 《月亮与六便士》 《沟通的艺术》 《经济学原理》 《异类》（推荐） 《动物农场》 《测试工程师全栈技术进</description>
+    </item>
     
     <item>
       <title>Hugo on GitHub Pages with Travis</title>
@@ -36,7 +45,7 @@
       <pubDate>Wed, 29 May 2019 17:52:38 +0800</pubDate>
       
       <guid>https://jane-dev.com/about/</guid>
-      <description>记录我的 一些读书笔记 一些技术笔记</description>
+      <description>关于我： 主要技能：测试工程师 开源项目： 联系我： GitHub：https://github.com/ZhangJin233 Email：jane</description>
     </item>
     
     <item>

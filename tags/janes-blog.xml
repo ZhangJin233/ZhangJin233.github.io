@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 18:32:59 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 22:05:45 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/tags/janes-blog.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title></title>
       <link>https://jane-dev.com/tags/</link>
-      <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>
+      <pubDate>Wed, 13 Nov 2019 22:05:45 +0800</pubDate>
       
       <guid>https://jane-dev.com/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>untagged</title>
+      <link>https://jane-dev.com/tags/untagged/</link>
+      <pubDate>Wed, 13 Nov 2019 22:05:45 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/tags/untagged/</guid>
       <description></description>
     </item>
     

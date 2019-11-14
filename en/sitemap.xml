@@ -4,24 +4,19 @@
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jane-dev.com/tags/CI/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <loc>https://jane-dev.com/reading/</loc>
+    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/hugo/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -33,6 +28,44 @@
                 hreflang="en"
                 href="https://jane-dev.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/</loc>
+    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jane-dev.com/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jane-dev.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/untagged/</loc>
+    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/reading/ReadingList/</loc>
+    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/CI/</loc>
+    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/hugo/</loc>
+    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
   </url>
   
   <url>
@@ -54,30 +87,8 @@
   </url>
   
   <url>
-    <loc>https://jane-dev.com/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jane-dev.com/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jane-dev.com/"
-                />
-  </url>
-  
-  <url>
     <loc>https://jane-dev.com/reading/Munger/</loc>
     <lastmod>2019-06-14T07:01:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
