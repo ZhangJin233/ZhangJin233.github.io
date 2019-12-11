@@ -4,19 +4,13 @@
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/</loc>
-    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
+    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
+    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -31,8 +25,20 @@
   </url>
   
   <url>
+    <loc>https://jane-dev.com/technology/</loc>
+    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/Test/</loc>
+    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jane-dev.com/</loc>
-    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
+    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -44,6 +50,22 @@
                 hreflang="en"
                 href="https://jane-dev.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/Backend_test/</loc>
+    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/androidTools/</loc>
+    <lastmod>2019-12-10T14:36:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/reading/</loc>
+    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -66,12 +88,6 @@
   <url>
     <loc>https://jane-dev.com/technology/hugo/</loc>
     <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

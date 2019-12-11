@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 13 Nov 2019 22:05:45 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 15:23:39 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/janes-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>后端测试工具</title>
+      <link>https://jane-dev.com/technology/Backend_test/</link>
+      <pubDate>Tue, 10 Dec 2019 15:23:39 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/Backend_test/</guid>
+      <description>mock工具 1、PowerMock - PowerMock is a Java framework that allows you to unit test code normally regarded as untestable. https://github.com/powermock/powermock 2、mockito https://site.mockito.org/ 3、Most popular Mocking framework for unit tests written in Java https://github.com/mockito/mockito API测试 1、Pr</description>
+    </item>
+    
+    <item>
+      <title>Android &amp; iOS 测试工具</title>
+      <link>https://jane-dev.com/technology/androidTools/</link>
+      <pubDate>Tue, 10 Dec 2019 14:36:49 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/androidTools/</guid>
+      <description>Android 测试工具 性能 1、Android Studio 2、adb 3、AndroidGodEye:A performance monitor tool , like &amp;ldquo;Android Studio profiler&amp;rdquo; for Android , you can easily monitor the performance of your app real time in pc browser https://github.com/Kyson/AndroidGodEye 4、简称 &amp;ldquo;DoKit&amp;rdquo;</description>
+    </item>
     
     <item>
       <title>不定期更新的书单</title>

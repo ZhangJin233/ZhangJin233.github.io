@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technologies on jane&#39;s blog</title>
-    <link>https://jane-dev.com/technology/</link>
-    <description>Recent content in Technologies on jane&#39;s blog</description>
+    <title>Test on jane&#39;s blog</title>
+    <link>https://jane-dev.com/tags/Test/</link>
+    <description>Recent content in Test on jane&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 10 Dec 2019 15:23:39 +0800</lastBuildDate>
     
-	<atom:link href="https://jane-dev.com/technology/janes-blog.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jane-dev.com/tags/Test/janes-blog.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,15 +28,6 @@
       
       <guid>https://jane-dev.com/technology/androidTools/</guid>
       <description>Android 测试工具 性能 1、Android Studio 2、adb 3、AndroidGodEye:A performance monitor tool , like &amp;ldquo;Android Studio profiler&amp;rdquo; for Android , you can easily monitor the performance of your app real time in pc browser https://github.com/Kyson/AndroidGodEye 4、简称 &amp;ldquo;DoKit&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>Hugo on GitHub Pages with Travis</title>
-      <link>https://jane-dev.com/technology/hugo/</link>
-      <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/technology/hugo/</guid>
-      <description>Preparation steps 1.Install hugo on your local system. 2.Create a bot user account on GitHub. create two repositories on Github use two repositories: one for sources and another for publishing publishing repositories named like &amp;lt;user/org name&amp;gt;.github.io for your HTML content,and if you hava domain,you can go to Settings fill in your Custom domain and enable Enforce HTTPS. sources repositories named like Blog. Put your secrets to travis settings 1.New personal</description>
     </item>
     
   </channel>
