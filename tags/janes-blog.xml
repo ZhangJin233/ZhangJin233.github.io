@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on jane&#39;s blog</title>
+    <title>jane&#39;s blog</title>
     <link>https://jane-dev.com/tags/</link>
-    <description>Recent content in Tags on jane&#39;s blog</description>
+    <description>Recent content on jane&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -13,66 +13,30 @@
     
     
     <item>
-      <title></title>
-      <link>https://jane-dev.com/tags/</link>
-      <pubDate>Tue, 10 Dec 2019 15:23:39 +0800</pubDate>
+      <title>《穷查理宝典》读书笔记</title>
+      <link>https://jane-dev.com/reading/Munger/</link>
+      <pubDate>Fri, 14 Jun 2019 07:01:21 +0800</pubDate>
       
-      <guid>https://jane-dev.com/tags/</guid>
-      <description></description>
+      <guid>https://jane-dev.com/reading/Munger/</guid>
+      <description>综述 感悟 ​ 看完查理宝典已经一周左右了，看完后的感悟就是，脑海里不断会回忆起查理反复提到的几个观点。这几个观点对我启发很大，现在我想总结出来，</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://jane-dev.com/tags/Test/</link>
-      <pubDate>Tue, 10 Dec 2019 15:23:39 +0800</pubDate>
+      <title>《人类简史》读书笔记</title>
+      <link>https://jane-dev.com/reading/Sapiens/</link>
+      <pubDate>Sun, 28 Apr 2019 16:57:08 +0800</pubDate>
       
-      <guid>https://jane-dev.com/tags/Test/</guid>
-      <description></description>
+      <guid>https://jane-dev.com/reading/Sapiens/</guid>
+      <description>全书框架 全书框架整理 智人 历史三大重要革命 第一部分：认知革命 第一章 人类：一种也没什么特别的动物 第二章 知善恶树 第三章 亚当和夏娃的一天 第四章 毁天灭</description>
     </item>
     
     <item>
-      <title>untagged</title>
-      <link>https://jane-dev.com/tags/untagged/</link>
-      <pubDate>Wed, 13 Nov 2019 22:05:45 +0800</pubDate>
+      <title>《自私的基因》读书笔记</title>
+      <link>https://jane-dev.com/reading/TheSelfishGene/</link>
+      <pubDate>Sun, 28 Apr 2019 16:57:08 +0800</pubDate>
       
-      <guid>https://jane-dev.com/tags/untagged/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI</title>
-      <link>https://jane-dev.com/tags/CI/</link>
-      <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/tags/CI/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travis</title>
-      <link>https://jane-dev.com/tags/Travis/</link>
-      <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/tags/Travis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://jane-dev.com/tags/hugo/</link>
-      <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>政治哲学</title>
-      <link>https://jane-dev.com/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/</link>
-      <pubDate>Tue, 28 May 2019 16:57:08 +0800</pubDate>
-      
-      <guid>https://jane-dev.com/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/</guid>
-      <description></description>
+      <guid>https://jane-dev.com/reading/TheSelfishGene/</guid>
+      <description>《自私的基因》目的是研究自私行为和利他行为在生物学上的意义。文章的论点是，我们以及其他一切动物都是各自基因所创造的机器。作者所论证的是，成功</description>
     </item>
     
   </channel>
