@@ -103,6 +103,17 @@
   </url>
   
   <url>
+    <loc>https://jane-dev.com/technology/JAVA/</loc>
+    <lastmod>2019-06-18T18:24:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/java/</loc>
+    <lastmod>2019-06-18T18:24:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jane-dev.com/reading/Munger/</loc>
     <lastmod>2019-06-14T07:01:21+08:00</lastmod>
   </url>

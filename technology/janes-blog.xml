@@ -39,5 +39,14 @@
       <description>Preparation steps 1.Install hugo on your local system. 2.Create a bot user account on GitHub. create two repositories on Github use two repositories: one for sources and another for publishing publishing repositories named like &amp;lt;user/org name&amp;gt;.github.io for your HTML content,and if you hava domain,you can go to Settings fill in your Custom domain and enable Enforce HTTPS. sources repositories named like Blog. Put your secrets to travis settings 1.New personal</description>
     </item>
     
+    <item>
+      <title>JAVA</title>
+      <link>https://jane-dev.com/technology/JAVA/</link>
+      <pubDate>Tue, 18 Jun 2019 18:24:25 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/JAVA/</guid>
+      <description>在Java中，所有的代码必须写在类里，所以定义一个HelloWorld类。main()函数是程序执行的入口。 /*hello world程序*/ public class HelloWorld { public static</description>
+    </item>
+    
   </channel>
 </rss>

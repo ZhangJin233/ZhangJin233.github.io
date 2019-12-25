@@ -49,6 +49,15 @@
     </item>
     
     <item>
+      <title>JAVA</title>
+      <link>https://jane-dev.com/technology/JAVA/</link>
+      <pubDate>Tue, 18 Jun 2019 18:24:25 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/JAVA/</guid>
+      <description>在Java中，所有的代码必须写在类里，所以定义一个HelloWorld类。main()函数是程序执行的入口。 /*hello world程序*/ public class HelloWorld { public static</description>
+    </item>
+    
+    <item>
       <title>《穷查理宝典》读书笔记</title>
       <link>https://jane-dev.com/reading/Munger/</link>
       <pubDate>Fri, 14 Jun 2019 07:01:21 +0800</pubDate>
