@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on jane&#39;s blog</title>
+    <link>https://jane-dev.com/movie/</link>
+    <description>Recent content in Movies on jane&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 12 Dec 2019 13:43:40 +0800</lastBuildDate>
+    
+	<atom:link href="https://jane-dev.com/movie/janes-blog.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019电影</title>
+      <link>https://jane-dev.com/movie/2019/</link>
+      <pubDate>Thu, 12 Dec 2019 13:43:40 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/movie/2019/</guid>
+      <description>1、《暴裂无声》 2、《江湖儿女》 3、绿皮书 4、小丑 5、波西米亚狂想曲 6、寄生虫 7、安娜</description>
+    </item>
+    
+  </channel>
+</rss>
