@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 10 Dec 2019 15:23:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 18:25:45 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/technology/janes-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TensorFlow mac anaconda 安装</title>
+      <link>https://jane-dev.com/technology/tensorflow/</link>
+      <pubDate>Wed, 01 Jan 2020 18:25:45 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/tensorflow/</guid>
+      <description>环境 Mac：MacOS Catalina 10.15.2 anaconda：anaconda3-2019.10 pip:19.0 (如果系统pip小于19，则需要更新至最新) Python：2</description>
+    </item>
     
     <item>
       <title>后端测试工具</title>

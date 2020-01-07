@@ -4,24 +4,13 @@
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/movie/2019/</loc>
-    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/movie/</loc>
-    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -36,8 +25,25 @@
   </url>
   
   <url>
+    <loc>https://jane-dev.com/technology/</loc>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/TensorFlow/</loc>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/tensorflow/</loc>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jane-dev.com/</loc>
-    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -52,14 +58,19 @@
   </url>
   
   <url>
-    <loc>https://jane-dev.com/tags/movie/</loc>
+    <loc>https://jane-dev.com/movie/2019/</loc>
+    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/movie/</loc>
     <lastmod>2019-12-12T13:43:40+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jane-dev.com/technology/</loc>
-    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
+    <loc>https://jane-dev.com/tags/movie/</loc>
+    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
     <priority>0</priority>
   </url>
   
