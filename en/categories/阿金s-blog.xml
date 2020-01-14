@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on jane&#39;s blog</title>
-    <link>https://jane-dev.com/zh/tags/</link>
-    <description>Recent content in Tags on jane&#39;s blog</description>
+    <title>Categories on 阿金&#39;s blog</title>
+    <link>https://jane-dev.com/en/categories/</link>
+    <description>Recent content in Categories on 阿金&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>zh-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     
-	<atom:link href="https://jane-dev.com/zh/tags/janes-blog.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jane-dev.com/en/categories/%E9%98%BF%E9%87%91s-blog.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

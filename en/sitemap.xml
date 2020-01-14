@@ -3,181 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <loc>https://jane-dev.com/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jane-dev.com/zh/tags/"
+                href="https://jane-dev.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://jane-dev.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://jane-dev.com/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jane-dev.com/en/tags/"
+                />
   </url>
   
   <url>
-    <loc>https://jane-dev.com/technology/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/TensorFlow/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/tensorflow/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <loc>https://jane-dev.com/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jane-dev.com/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://jane-dev.com/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/movie/</loc>
-    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/movie/</loc>
-    <lastmod>2019-12-12T13:43:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/Test/</loc>
-    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/Backend_test/</loc>
-    <lastmod>2019-12-10T15:23:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/androidTools/</loc>
-    <lastmod>2019-12-10T14:36:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/</loc>
-    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/untagged/</loc>
-    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/ReadingList/</loc>
-    <lastmod>2019-11-13T22:05:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/CI/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/hugo/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/Travis/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/hugo/</loc>
-    <lastmod>2019-06-18T18:32:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/JAVA/</loc>
-    <lastmod>2019-06-18T18:24:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/java/</loc>
-    <lastmod>2019-06-18T18:24:25+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/Munger/</loc>
-    <lastmod>2019-06-14T07:01:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/about/</loc>
-    <lastmod>2019-05-29T17:52:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/justice/</loc>
-    <lastmod>2019-05-28T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2019-05-28T16:57:08+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/Sapiens/</loc>
-    <lastmod>2019-04-28T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/TheSelfishGene/</loc>
-    <lastmod>2019-04-28T16:57:08+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jane-dev.com/zh/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jane-dev.com/categories/"
+                href="https://jane-dev.com/en/"
                 />
   </url>
   
