@@ -43,7 +43,7 @@
 
 <meta itemprop="datePublished" content="2019-06-18T18:24:25&#43;08:00" />
 <meta itemprop="dateModified" content="2019-06-18T18:24:25&#43;08:00" />
-<meta itemprop="wordCount" content="6825">
+<meta itemprop="wordCount" content="6883">
 
 
 
@@ -815,6 +815,19 @@ cat<span style="color:#f92672">.</span><span style="color:#a6e22e">miaomiao</spa
 
 <p>优秀的软件设计者的一个素质就是有预见性。什么是可能会改变的？什么是可以假设在软 件的生命期内不会改变的？</p>
 
+<h4 id="捕捉异常"><strong>捕捉异常</strong></h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">try</span><span style="color:#f92672">{</span>
+<span style="color:#75715e">// 可能产生异常的代码
+</span><span style="color:#75715e"></span><span style="color:#f92672">}</span><span style="color:#66d9ef">catch</span><span style="color:#f92672">(</span>Type1 id1<span style="color:#f92672">){</span>
+<span style="color:#75715e">// 处理Type1异常的代码
+</span><span style="color:#75715e"></span><span style="color:#f92672">}</span><span style="color:#66d9ef">catch</span><span style="color:#f92672">(</span>Type2 id2<span style="color:#f92672">){</span>
+<span style="color:#75715e">// 处理Type2异常的代码
+</span><span style="color:#75715e"></span><span style="color:#f92672">}</span></code></pre></div>
+<p><strong>再度抛出</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">catch</span><span style="color:#f92672">(</span>exception e<span style="color:#f92672">){</span>
+  System<span style="color:#f92672">.</span><span style="color:#a6e22e">err</span><span style="color:#f92672">.</span><span style="color:#a6e22e">printIn</span><span style="color:#f92672">(</span><span style="color:#e6db74">&#34;an exception throw&#34;</span><span style="color:#f92672">);</span>
+  <span style="color:#66d9ef">throw</span> e<span style="color:#f92672">;</span>
+<span style="color:#f92672">}</span></code></pre></div>
 <hr />
 
 <p>参考内容：</p>
