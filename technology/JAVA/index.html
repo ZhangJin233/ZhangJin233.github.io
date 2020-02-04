@@ -43,7 +43,7 @@
 
 <meta itemprop="datePublished" content="2019-06-18T18:24:25&#43;08:00" />
 <meta itemprop="dateModified" content="2019-06-18T18:24:25&#43;08:00" />
-<meta itemprop="wordCount" content="7384">
+<meta itemprop="wordCount" content="7580">
 
 
 
@@ -467,7 +467,21 @@ Dog dog1 <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</s
 
 <h4 id="内部类"><strong>内部类</strong></h4>
 
+<ul>
+<li><p>定义在别的类内部、函数内部的类</p></li>
+
+<li><p>内部类能直接访问外部的全部资源
+包括任何私有的成员
+外部是函数时，只能访问那个函数里final的变量</p></li>
+</ul>
+
 <h4 id="匿名类"><strong>匿名类</strong></h4>
+
+<ul>
+<li>在new对象的时候给出的类的定义形成了匿名类</li>
+<li>匿名类可以继承某类，也可以实现某接口</li>
+<li>Swing的消息机制广泛使用匿名类</li>
+</ul>
 
 <h4 id="权限修饰符"><strong>权限修饰符</strong></h4>
 
@@ -802,6 +816,14 @@ cat<span style="color:#f92672">.</span><span style="color:#a6e22e">miaomiao</spa
 <p>父类型   变量   =   new  子类()；</p>
 
 <p>向上造型是多态的一种体现，同时可以使程序更简单明了。</p>
+
+<h4 id="控制反转"><strong>控制反转</strong></h4>
+
+<ul>
+<li>由按钮公布一个守听者接口和一对注册/注销函数</li>
+<li>你的代码实现那个接口，将守听者对象注册在按钮上</li>
+<li>一旦按钮被按下，就会反过来调用你的守听者对象的某个函数</li>
+</ul>
 
 <h4 id="设计原则"><strong>设计原则</strong></h4>
 
