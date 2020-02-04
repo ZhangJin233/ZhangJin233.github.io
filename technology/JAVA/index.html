@@ -43,7 +43,7 @@
 
 <meta itemprop="datePublished" content="2019-06-18T18:24:25&#43;08:00" />
 <meta itemprop="dateModified" content="2019-06-18T18:24:25&#43;08:00" />
-<meta itemprop="wordCount" content="6883">
+<meta itemprop="wordCount" content="7384">
 
 
 
@@ -816,6 +816,10 @@ cat<span style="color:#f92672">.</span><span style="color:#a6e22e">miaomiao</spa
 <p>优秀的软件设计者的一个素质就是有预见性。什么是可能会改变的？什么是可以假设在软 件的生命期内不会改变的？</p>
 
 <h4 id="捕捉异常"><strong>捕捉异常</strong></h4>
+
+<p><strong>异常</strong> ： 当这个事情发生的时候，原本打算要接着做的事情不能再继续了，必须得要停下来，让其他地方的某段代码来处理。</p>
+
+<p>异常机制最大的好处就是清晰地分开了正常的业务逻辑代码和遇到情况时的处理代码</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">try</span><span style="color:#f92672">{</span>
 <span style="color:#75715e">// 可能产生异常的代码
 </span><span style="color:#75715e"></span><span style="color:#f92672">}</span><span style="color:#66d9ef">catch</span><span style="color:#f92672">(</span>Type1 id1<span style="color:#f92672">){</span>
@@ -828,6 +832,65 @@ cat<span style="color:#f92672">.</span><span style="color:#a6e22e">miaomiao</spa
   System<span style="color:#f92672">.</span><span style="color:#a6e22e">err</span><span style="color:#f92672">.</span><span style="color:#a6e22e">printIn</span><span style="color:#f92672">(</span><span style="color:#e6db74">&#34;an exception throw&#34;</span><span style="color:#f92672">);</span>
   <span style="color:#66d9ef">throw</span> e<span style="color:#f92672">;</span>
 <span style="color:#f92672">}</span></code></pre></div>
+<p><strong>异常声明</strong></p>
+
+<p>如果你的函数可能抛出异常，就必须在函数头部加以声明</p>
+
+<p>void f() throws TooBig，TooSmall{}</p>
+
+<p>你可以声明并不会真的抛出的异常</p>
+
+<p>如果你调用一个会抛出异常的函数，那么你必须：
+- 把函数的调用放在try块中，并设置catch来捕捉所有可能抛出的异常，或
+- 声明自己会抛出无法处理的异常</p>
+
+<p><strong>异常声明遇到继承关系</strong></p>
+
+<ul>
+<li>当覆盖一个函数的时候，子类不能声明抛出比父类的版本更多的异常</li>
+<li>在子类的构造函数中，必须声明父类可能抛出的全部异常</li>
+</ul>
+
+<p><strong>异常机制</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"></code></pre></div>
+<p>catch 怎么匹配异常
+is-A的关系</p>
+
+<p>就是说，抛出的子类异常会被父类异常的catch给捕捉到</p>
+
+<p><strong>捕捉任何异常</strong></p>
+
+<p>catch（Exception e）{
+  System.err.printLn(&ldquo;catught an exception&rdquo;);
+}</p>
+
+<h4 id="流"><strong>流</strong></h4>
+
+<p>流是输入输出的方式</p>
+
+<p><strong>流的基础类</strong>
+- InputStream
+- OutputStream</p>
+
+<h4 id="文件流">文件流</h4>
+
+<ul>
+<li>FileInputStream</li>
+<li>FileOutputStream</li>
+<li>对文件做读写操作</li>
+<li>实际工程中已近较少使用</li>
+<li>更常用的是以在内存数据或通信数据上建立的流，如数据库的二进制数据读写或网络端口通信</li>
+<li>具体的文件读写往往有更专业的类，比如配置文件和日志文件</li>
+</ul>
+
+<p><strong>在流上建立文本处理</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">PrintWriter pw <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> PrintWriter<span style="color:#f92672">(</span>
+  <span style="color:#66d9ef">new</span> ButteredWriter<span style="color:#f92672">(</span>
+    <span style="color:#66d9ef">new</span> OutputStreamWriter<span style="color:#f92672">(</span>
+      <span style="color:#66d9ef">new</span> FileOutputStream<span style="color:#f92672">(</span><span style="color:#e6db74">&#34;abc.txt&#34;</span><span style="color:#f92672">)</span>
+    <span style="color:#f92672">)</span>
+  <span style="color:#f92672">)</span>
+<span style="color:#f92672">);</span></code></pre></div>
 <hr />
 
 <p>参考内容：</p>
