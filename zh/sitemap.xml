@@ -4,13 +4,24 @@
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <lastmod>2020-02-19T14:18:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://jane-dev.com/tags/Charles/</loc>
+    <lastmod>2020-02-19T14:18:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/charles/</loc>
+    <lastmod>2020-02-19T14:18:03+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <lastmod>2020-02-19T14:18:03+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -26,24 +37,13 @@
   
   <url>
     <loc>https://jane-dev.com/technology/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <lastmod>2020-02-19T14:18:03+08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/TensorFlow/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/technology/tensorflow/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jane-dev.com/</loc>
-    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <lastmod>2020-02-19T14:18:03+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +55,17 @@
                 hreflang="zh"
                 href="https://jane-dev.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/TensorFlow/</loc>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/tensorflow/</loc>
+    <lastmod>2020-01-01T18:25:45+08:00</lastmod>
   </url>
   
   <url>
