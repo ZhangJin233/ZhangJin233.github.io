@@ -67,6 +67,24 @@
     </item>
     
     <item>
+      <title>经济学原理</title>
+      <link>https://jane-dev.com/reading/PrinciplesOfEconomics/</link>
+      <pubDate>Wed, 13 Nov 2019 22:00:45 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/reading/PrinciplesOfEconomics/</guid>
+      <description>前言：致学生 经济学是一门研究人类一般生活事物的学问——阿尔弗雷德·马歇尔《经济学原理》。 学习经济学的原因： 有助于你了解你所生活在其中的世界，</description>
+    </item>
+    
+    <item>
+      <title>移动APP安全测试</title>
+      <link>https://jane-dev.com/technology/MobileAPPsecurity/</link>
+      <pubDate>Wed, 13 Nov 2019 14:57:44 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/MobileAPPsecurity/</guid>
+      <description>一、安全测试要点 安全测试主要包括的三大部分： 1、客户端 2、数据传输 3、服务端 4、使用到的工具： dex文件反编译工具 dexdump、baksm</description>
+    </item>
+    
+    <item>
       <title>Hugo on GitHub Pages with Travis</title>
       <link>https://jane-dev.com/technology/hugo/</link>
       <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>

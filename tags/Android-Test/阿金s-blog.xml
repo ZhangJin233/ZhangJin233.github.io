@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android Test on 阿金&#39;s blog</title>
+    <link>https://jane-dev.com/tags/Android-Test/</link>
+    <description>Recent content in Android Test on 阿金&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 13 Nov 2019 14:57:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://jane-dev.com/tags/Android-Test/%E9%98%BF%E9%87%91s-blog.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>移动APP安全测试</title>
+      <link>https://jane-dev.com/technology/MobileAPPsecurity/</link>
+      <pubDate>Wed, 13 Nov 2019 14:57:44 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/MobileAPPsecurity/</guid>
+      <description>一、安全测试要点 安全测试主要包括的三大部分： 1、客户端 2、数据传输 3、服务端 4、使用到的工具： dex文件反编译工具 dexdump、baksm</description>
+    </item>
+    
+  </channel>
+</rss>

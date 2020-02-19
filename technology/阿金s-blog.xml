@@ -49,6 +49,15 @@
     </item>
     
     <item>
+      <title>移动APP安全测试</title>
+      <link>https://jane-dev.com/technology/MobileAPPsecurity/</link>
+      <pubDate>Wed, 13 Nov 2019 14:57:44 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/MobileAPPsecurity/</guid>
+      <description>一、安全测试要点 安全测试主要包括的三大部分： 1、客户端 2、数据传输 3、服务端 4、使用到的工具： dex文件反编译工具 dexdump、baksm</description>
+    </item>
+    
+    <item>
       <title>Hugo on GitHub Pages with Travis</title>
       <link>https://jane-dev.com/technology/hugo/</link>
       <pubDate>Tue, 18 Jun 2019 18:32:59 +0800</pubDate>
