@@ -4,24 +4,13 @@
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/justice12/</loc>
-    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/reading/</loc>
-    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
+    <lastmod>2020-04-15T21:41:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
+    <lastmod>2020-04-15T21:41:12+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -36,14 +25,25 @@
   </url>
   
   <url>
-    <loc>https://jane-dev.com/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
+    <loc>https://jane-dev.com/technology/</loc>
+    <lastmod>2020-04-15T21:41:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/test/</loc>
+    <lastmod>2020-04-15T21:41:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/test/</loc>
+    <lastmod>2020-04-15T21:41:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jane-dev.com/</loc>
-    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
+    <lastmod>2020-04-15T21:41:12+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +55,23 @@
                 hreflang="zh"
                 href="https://jane-dev.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/reading/justice12/</loc>
+    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/reading/</loc>
+    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/</loc>
+    <lastmod>2020-04-07T11:15:14+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -124,12 +141,6 @@
   </url>
   
   <url>
-    <loc>https://jane-dev.com/technology/</loc>
-    <lastmod>2020-02-19T14:18:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jane-dev.com/tags/TensorFlow/</loc>
     <lastmod>2020-01-01T18:25:45+08:00</lastmod>
     <priority>0</priority>
@@ -191,12 +202,6 @@
   
   <url>
     <loc>https://jane-dev.com/tags/Android-Test/</loc>
-    <lastmod>2019-11-13T14:57:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/test/</loc>
     <lastmod>2019-11-13T14:57:44+08:00</lastmod>
     <priority>0</priority>
   </url>

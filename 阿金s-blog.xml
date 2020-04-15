@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 07 Apr 2020 11:15:14 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 21:41:12 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/%E9%98%BF%E9%87%91s-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://jane-dev.com/technology/test/</link>
+      <pubDate>Wed, 15 Apr 2020 21:41:12 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/test/</guid>
+      <description>我认为的测试 基本共识 测试不是无脑的重复劳动。测试与开发要求一致： 先用脑，再动手 当下测试行业的现状：绝大多数测试仅仅只会做“验收” 因此一位优秀</description>
+    </item>
     
     <item>
       <title>JUSTICE 公正课笔记 23-24</title>
@@ -225,7 +234,7 @@
       <pubDate>Wed, 29 May 2019 17:52:38 +0800</pubDate>
       
       <guid>https://jane-dev.com/about/</guid>
-      <description>关于我： 主要技能：测试工程师 联系我： GitHub：https://github.com/ZhangJin233 Email：jane.zhan</description>
+      <description>读书、看电影、跑步 主要技能：测试开发 base in beijing 联系我： GitHub：https://github.com/ZhangJin233 Email：ja</description>
     </item>
     
     <item>
