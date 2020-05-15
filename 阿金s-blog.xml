@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 21:41:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 10:42:34 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/%E9%98%BF%E9%87%91s-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>使用docker 快速搭建 STF</title>
+      <link>https://jane-dev.com/technology/STF/</link>
+      <pubDate>Thu, 07 May 2020 10:42:34 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/STF/</guid>
+      <description>docker运行SFT 1、 pull 相关镜像 首先 在docker 上 pull 这几个镜像： docker pull openstf/stf:latest docker pull sorccu/adb:latest docker pull rethinkdb:latest docker pull openstf/ambassador:latest docker pull nginx:latest 2、启动 #先启动一个数据库 docker run -d --name rethinkdb -v /srv/rethinkdb:/data</description>
+    </item>
     
     <item>
       <title>Test</title>
