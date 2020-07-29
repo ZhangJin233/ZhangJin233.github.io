@@ -4,19 +4,13 @@
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jane-dev.com/tags/STF/</loc>
-    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
+    <lastmod>2020-05-14T14:04:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jane-dev.com/tags/</loc>
-    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
+    <lastmod>2020-05-14T14:04:42+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -32,18 +26,24 @@
   
   <url>
     <loc>https://jane-dev.com/technology/</loc>
-    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
+    <lastmod>2020-05-14T14:04:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jane-dev.com/technology/STF/</loc>
-    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
+    <loc>https://jane-dev.com/technology/appium/</loc>
+    <lastmod>2020-05-14T14:04:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/tags/test/</loc>
+    <lastmod>2020-05-14T14:04:42+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jane-dev.com/</loc>
-    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
+    <lastmod>2020-05-14T14:04:42+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -58,14 +58,19 @@
   </url>
   
   <url>
-    <loc>https://jane-dev.com/technology/test/</loc>
-    <lastmod>2020-04-15T21:41:12+08:00</lastmod>
+    <loc>https://jane-dev.com/tags/STF/</loc>
+    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jane-dev.com/tags/test/</loc>
+    <loc>https://jane-dev.com/technology/STF/</loc>
+    <lastmod>2020-05-07T10:42:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jane-dev.com/technology/test/</loc>
     <lastmod>2020-04-15T21:41:12+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

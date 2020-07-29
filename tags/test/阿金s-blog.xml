@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 21:41:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 14:04:42 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/tags/test/%E9%98%BF%E9%87%91s-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mac 安装Appium环境 及 iOS真机启动</title>
+      <link>https://jane-dev.com/technology/appium/</link>
+      <pubDate>Thu, 14 May 2020 14:04:42 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/appium/</guid>
+      <description>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;准备工作&amp;mdash;&amp;mdash;&amp;mdash;&amp;md</description>
+    </item>
     
     <item>
       <title>Test</title>
