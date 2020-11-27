@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 14 May 2020 14:04:42 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 11:06:20 +0800</lastBuildDate>
     
 	<atom:link href="https://jane-dev.com/technology/%E9%98%BF%E9%87%91s-blog.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EarlGrey2 cocoapods 安装 及 使用 </title>
+      <link>https://jane-dev.com/technology/EarlGrey/</link>
+      <pubDate>Fri, 27 Nov 2020 11:06:20 +0800</pubDate>
+      
+      <guid>https://jane-dev.com/technology/EarlGrey/</guid>
+      <description>一、EarlGrey2 cocoapods 安装 1、在podfile 引入 EarlGrey2依赖，不用具体到EarlGrey2 branch target &amp;#39;EarlGreyExampleSwift&amp;#39; do pod &amp;#39;EarlGreyApp&amp;#39; end target &amp;#39;EarlGreyExampleUITests&amp;#39; do #inherit! :search_paths pod &amp;#39;EarlGreyTest&amp;#39; end target &amp;#39;EarlGreyExampleSwiftUITests&amp;#39; do</description>
+    </item>
     
     <item>
       <title>mac 安装Appium环境 及 iOS真机启动</title>
