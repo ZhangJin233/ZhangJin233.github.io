@@ -37,7 +37,7 @@
 
 <meta itemprop="datePublished" content="2020-11-27T11:06:20&#43;08:00" />
 <meta itemprop="dateModified" content="2020-11-27T11:06:20&#43;08:00" />
-<meta itemprop="wordCount" content="643">
+<meta itemprop="wordCount" content="766">
 
 
 
@@ -213,6 +213,25 @@ target <span style="color:#e6db74">&#39;EarlGreyExampleSwiftUITests&#39;</span> 
 
 <p><a href="https://github.com/google/EarlGrey/blob/earlgrey2/Demo/EarlGreyExample/EarlGreyExampleUITests/EarlGreyExampleUITests.m" rel="nofollow noreferrer" target="_blank">https://github.com/google/EarlGrey/blob/earlgrey2/Demo/EarlGreyExample/EarlGreyExampleUITests/EarlGreyExampleUITests.m</a></p>
 
+<p>三、Tapping system alert using EarlGrey 2.0 &amp; Swift or objective-c</p>
+
+<h5 id="objective-c">objective-c</h5>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-swift" data-lang="swift"><span style="color:#f92672">-</span> (void) testButterAlerts{
+    <span style="color:#75715e">//Notifications</span>
+    XCTAssertTrue([EarlGrey selectElementWithMatcher:grey_systemAlertViewShown()]);
+    XCTAssertTrue([EarlGrey selectElementWithMatcher:grey_buttonTitle(@<span style="color:#e6db74">&#34;“APP”想给您发送通知&#34;</span>)]);
+    XCTAssertTrue([<span style="color:#66d9ef">self</span> grey_waitForAlertVisibility:YES withTimeout:<span style="color:#ae81ff">1</span>]);
+    XCTAssertTrue([<span style="color:#66d9ef">self</span> grey_acceptSystemDialogWithError:<span style="color:#66d9ef">nil</span>]);
+    XCTAssertTrue([<span style="color:#66d9ef">self</span> grey_waitForAlertVisibility:NO withTimeout:<span style="color:#ae81ff">1</span>]); 
+}</code></pre></div>
+<h5 id="swift">swift</h5>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-swift" data-lang="swift"><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">testExample</span>() {
+    <span style="color:#66d9ef">let</span> app = XCUIApplication()
+    app.launch()
+    XCTAssertTrue(grey_wait(forAlertVisibility: <span style="color:#66d9ef">true</span>, withTimeout: <span style="color:#ae81ff">2</span>))
+    XCTAssertTrue(grey_acceptSystemDialogWithError(<span style="color:#66d9ef">nil</span>))
+    XCTAssertTrue(grey_wait(forAlertVisibility: <span style="color:#66d9ef">false</span>, withTimeout: <span style="color:#ae81ff">1</span>))    
+}</code></pre></div>
             </div>
         </article>
 
